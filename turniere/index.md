@@ -9,7 +9,7 @@ title: Turniere
 
 Name                                      | Link zum Turnier                                | 
 ----------------------------------------- | ---------------------------------------------- | 
-Gamekeller Turnier #2                      | [Gamekeller Turnier Nummer Zwei]({{ site.github.repo }}/Turniere/Turnier-Nummer-Zwei)|
-Gamekeller Turnier #1                      | [Gamekeller Turnier Nummer Eins]({{ site.github.repo }}/Turniere/Turnier-Nummer-Eins)| 
+Gamekeller Turnier #2                      | [Gamekeller Turnier Nummer Zwei]({{ site.github.repo }}/turniere/Turnier-Nummer-Zwei)|
+Gamekeller Turnier #1                      | [Gamekeller Turnier Nummer Eins]({{ site.github.repo }}/turniere/Turnier-Nummer-Eins)| 
 
 
