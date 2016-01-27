@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Gamekeller
+tagline:             'League of Legends Turniere'
+description:         'Diese Seite ist für die neusten Informationen über die League of Legends Turniere, die von unserem <a href="/team">Oragnisation Team</a> in Gamekeller organisiert werden.'
+url:                 http://lol.gamekeller.net
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Yeti Cory
+  url:               gamekeller.net/Yeti
+  email:             Yeti@gamekeller.net
+
+# Custom vars
+version:             1.0.0
