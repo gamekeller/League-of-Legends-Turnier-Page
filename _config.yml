@@ -1,8 +1,4 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+
 
 # Setup
 title:               Gamekeller
@@ -10,6 +6,8 @@ tagline:             'League of Legends Turniere'
 description:         'Diese Seite ist für die neusten Informationen über die League of Legends Turniere, die von unserem <a href="/team">Oragnisation Team</a> in Gamekeller organisiert werden.'
 url:                 https://lol.gamekeller.net
 paginate:            5
+permalink:           pretty
+
 
 gems:
   - jemoji
