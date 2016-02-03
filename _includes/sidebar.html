@@ -1,24 +1,21 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-<!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/turniere">Turniere</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/turnierregeln">Turnierregeln</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/team">Team</a>
-    <a class="sidebar-nav-item" href="http://gamekeller.net">Zur Gamekeller Homepage</a>
+    <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Ankündigungen</a>
+    <a class="sidebar-nav-item{% if page.url == '/turniere/' %} active{% endif %}" href="/turniere">Turniere</a>
+    <a class="sidebar-nav-item{% if page.url == '/turnierregeln/' %} active{% endif %}" href="/turnierregeln">Regeln</a>
+    <a class="sidebar-nav-item{% if page.url == '/team/' %} active{% endif %}" href="/team">Team</a>
+    <a class="sidebar-nav-item" href="https://gamekeller.net">Zur Gamekeller Website</a>
   </nav>
 
-  <div class="sidebar-item">
+  <div class="sidebar-footer sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; {{ site.time | date: '%Y' }} Gamekeller<br>Alle Rechte vorbehalten<br><a href="https://gamekeller.net/imprint">Impressum</a>
     </p>
   </div>
 </div>

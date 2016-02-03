@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date: "%D" }}</span>
+    <span class="post-date">{% include date.html date=post.date %}</span>
 
     {{ post.content }}
   </div>
@@ -21,7 +21,7 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Ältere</a>
   {% else %}
     <span class="pagination-item older">Ältere</span>
   {% endif %}

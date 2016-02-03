@@ -1,13 +1,10 @@
 # Setup
-title:               Gamekeller
-tagline:             'League of Legends Turniere'
-description:         'Diese Seite ist für die neusten Informationen über die League of Legends Turniere, die von unserem <a href="/team">Oragnisation Team</a> in Gamekeller organisiert werden.'
-url:                 https://lol.gamekeller.net
+title:               Gamekeller Leage of Legends Turniere
+description:         Die neusten Informationen über die offiziellen Gamekeller League of Legends Turniere.
+url:                 http://lol.gamekeller.net
 paginate:            5
 permalink:           pretty
 
 gems:
+  - jekyll-paginate
   - jemoji
-  
-# Custom vars
-version:             1.0.1
