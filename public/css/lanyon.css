@@ -483,3 +483,9 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover {
   color: #f90;
 }
+
+img.emoji {
+  display: inline;
+  margin: 0;
+  border-radius: 0;
+}
