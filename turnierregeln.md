@@ -1,13 +1,8 @@
 ---
 layout: page
 title: Turnierregeln
+subtitle: Die Regeln für jedes Turnier findest du hier!
 ---
-
-<p class="message">
-  Die Regeln für jedes Turnier findest du hier!
-</p>
-
-
 
 * Anmeldung
   * Ein komplettes Team besteht aus min. 5 Spielern und optional noch 2 Ersatzspielern.

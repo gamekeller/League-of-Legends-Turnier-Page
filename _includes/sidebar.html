@@ -2,6 +2,9 @@
 
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
+    <a href="/">
+      {% include icons.html %}
+    </a>
     <p>{{ site.description }}</p>
   </div>
 
@@ -14,8 +17,6 @@
   </nav>
 
   <div class="sidebar-footer sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }} Gamekeller<br>Alle Rechte vorbehalten<br><a href="https://gamekeller.net/imprint">Impressum</a>
-    </p>
+    <p><a href="https://gamekeller.net/imprint">Impressum</a></p>
   </div>
 </div>

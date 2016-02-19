@@ -1,9 +1,9 @@
-# Setup
 title:               Gamekeller League of Legends Turniere
 description:         Die neusten Informationen über die offiziellen Gamekeller League of Legends Turniere.
 url:                 http://lol.gamekeller.net
-paginate:            5
 permalink:           pretty
+paginate:            5
+paginate_path:       /page/:num/
 
 gems:
   - jekyll-paginate

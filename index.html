@@ -6,14 +6,12 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
+    <span class="post-date">{% include date.html date=post.date %}</span>
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{% include date.html date=post.date %}</span>
-
     {{ post.content }}
   </div>
   {% endfor %}
@@ -21,7 +19,7 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Ältere</a>
+    <a class="pagination-item older" href="/page/{{paginator.next_page}}/">Ältere</a>
   {% else %}
     <span class="pagination-item older">Ältere</span>
   {% endif %}
@@ -29,7 +27,7 @@ title: Home
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="/">Neuere</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Neuere</a>
+      <a class="pagination-item newer" href="/page/{{paginator.previous_page}}/">Neuere</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Neuere</span>

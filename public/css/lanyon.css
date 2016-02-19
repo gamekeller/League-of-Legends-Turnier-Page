@@ -41,14 +41,41 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
+  color: #e2e7ef;
+}
+
+h1 {
+  font-size: 2em;
+}
+h2 {
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+h3 {
+  margin-top: 1.5em;
+  font-size: 1.25em;
+}
+h4, h5, h6 {
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+/* Tables */
+table {
+  border-color: #2f3235;
+}
+td,
+th {
+  border-color: #2f3235;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #272a2e;
 }
 
 
@@ -62,6 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .wrap {
   position: relative;
+  padding-top: 4rem;
   width: 100%;
 }
 
@@ -148,12 +176,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: #1c1f24;
   background-color: #202020;
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  -webkit-transition: .3s ease-in-out;
+  -webkit-transition-property: -webkit-transform, visibility;
+          transition: .3s ease-in-out;
+          transition-property: transform, visibility;
 }
 @media (min-width: 30rem) {
   .sidebar {
@@ -214,7 +243,7 @@ a.sidebar-nav-item:focus {
   width: 2.2rem;
   padding: .5rem .65rem;
   color: #505050;
-  background-color: #fff;
+  background-color: #272a2e;
   border-radius: 4px;
   cursor: pointer;
 }
@@ -301,11 +330,15 @@ a.sidebar-nav-item:focus {
   margin-bottom: 4em;
 }
 
+.post {
+  position: relative;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #e2e7ef;
 }
 .page-title,
 .post-title {
@@ -315,10 +348,20 @@ a.sidebar-nav-item:focus {
 
 /* Meta data line below post title */
 .post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
+  display: inline-block;
+  line-height: 1.75rem;
+  color: inherit;
+  border-bottom: 1px solid #2f3235;
+}
+
+@media (min-width: 87.5rem) {
+  .post-date {
+    position: absolute;
+    left: -1rem;
+    margin: 0;
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
 }
 
 /* Related posts */
@@ -358,24 +401,32 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
   text-align: center;
+  color: inherit;
+  font-family: inherit;
 }
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid #2f3235;
+  cursor: not-allowed;
+  color: #5f656d;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
 }
+a.pagination-item {
+  cursor: pointer;
+}
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #f90;
+  color: #fff !important;
+  border-color: #f90;
+  text-decoration: none;
 }
 
 @media (min-width: 30rem) {
@@ -400,36 +451,13 @@ a.pagination-item:hover {
 
 
 /*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` and sidebar toggle
- * on the right side.
+ * Gamekeller styles
  */
 
-.layout-reverse .sidebar {
-  left: auto;
-  right: -14rem;
+body {
+  background-color: #1c1f24;
+  color: #7c838d;
 }
-.layout-reverse .sidebar-toggle {
-  left: auto;
-  right: 1rem;
-}
-
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar,
-.layout-reverse #sidebar-checkbox:checked ~ .wrap,
-.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(-14rem);
-      -ms-transform: translateX(-14rem);
-          transform: translateX(-14rem);
-}
-
-
-/*
- * Themes
- *
- * Apply custom color schemes by adding the appropriate class to the `body`.
- * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
- */
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -450,7 +478,78 @@ a.pagination-item:hover {
   background-color: #f90;
   background-position: 50% 50%;
   background-size: cover;
-  background-image: url(https://serve.gamekeller.net/images/poly.png);
+  background-image: url(https://serve.gamekeller.net/images/poly.png), linear-gradient(#fcc08b, #9a461f);
+}
+
+.logos {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.logos-masthead {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  background-size: 40% 1px;
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(#2f3235, #2f3235);
+}
+
+.logos::before,
+.logos::after {
+  position: absolute;
+  top: 0;
+  font-size: .7rem;
+  line-height: 1rem;
+  letter-spacing: .3rem;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.logos-masthead::before,
+.logos-masthead::after {
+  color: #7c838d;
+}
+
+.logos::before {
+  content: 'Game';
+  left: 50%;
+  margin-left: -.8rem;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+}
+
+.logos::after {
+  content: 'keller';
+  left: 50%;
+  margin-left: 1rem;
+}
+
+.logos-gamekeller {
+  display: block;
+  margin: 0 auto .8rem;
+  width: 20px;
+  height: 20px;
+  fill: rgba(255, 255, 255, 0.65);
+}
+
+.logos-masthead .logos-gamekeller {
+  margin-bottom: 1.2rem;
+  fill: #7c838d;
+}
+
+.logos-lol {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  fill: #fff;
+}
+
+.logos-masthead .logos-lol {
+  width: 50vw;
+  max-width: 26rem;
+  fill: #e2e7ef;
 }
 
 .sidebar-nav {
@@ -479,13 +578,61 @@ a.sidebar-nav-item:focus {
 }
 
 .container a,
-.sidebar-toggle,
-.related-posts li a:hover {
+.sidebar-toggle {
+  color: #e2e7ef;
+}
+
+.container a:hover {
   color: #f90;
+  text-decoration: none;
 }
 
 img.emoji {
   display: inline;
   margin: 0;
   border-radius: 0;
+}
+
+.message {
+  color: inherit;
+  background-color: #272a2e;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .125);
+}
+
+.page-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.page-subtitle {
+  margin: -1.5rem auto 2rem;
+  width: 100%;
+  max-width: 28rem;
+  text-align: center;
+}
+
+.posts {
+  margin-top: 2rem;
+}
+
+@media (min-width: 38rem) {
+  .wrap {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 75rem) {
+  .sidebar {
+    left: 0;
+    visibility: visible;
+  }
+
+  .sidebar-toggle {
+    display: none;
+  }
+
+  .wrap {
+    margin-left: 14rem;
+    width: auto;
+  }
 }
