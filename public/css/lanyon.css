@@ -582,7 +582,9 @@ a.sidebar-nav-item:focus {
   color: #e2e7ef;
 }
 
-.container a:hover {
+.container a:hover,
+.container a:focus,
+.container a:active {
   color: #f90;
   text-decoration: none;
 }
@@ -613,6 +615,42 @@ img.emoji {
 
 .posts {
   margin-top: 2rem;
+}
+
+.team {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto 1rem;
+  width: 100%;
+  max-width: 29rem;
+}
+
+.team-person {
+  margin: 0 0 1rem;
+  padding: 0 .5rem;
+  width: 25%;
+  min-width: 7rem;
+}
+
+.team-person-avatar {
+  margin: 0;
+  width: 100%;
+}
+
+.team-person-name {
+  margin: .5rem 0 0;
+  text-align: center;
+  word-break: break-word;
+  font-size: .75rem;
 }
 
 @media (min-width: 38rem) {
