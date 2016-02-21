@@ -42,6 +42,10 @@ body {
 
 html {
   font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-variant-ligatures: common-ligatures;
+  -moz-font-feature-settings: "liga", "clig";
+  -webkit-font-feature-settings: "liga", "clig";
+  font-feature-settings: "liga", "clig";
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -478,7 +482,7 @@ body {
   background-color: #f90;
   background-position: 50% 50%;
   background-size: cover;
-  background-image: url(https://serve.gamekeller.net/images/poly.png), linear-gradient(#fcc08b, #9a461f);
+  background-image: url(https://serve.gamekeller.net/images/poly.png);
 }
 
 .logos {
