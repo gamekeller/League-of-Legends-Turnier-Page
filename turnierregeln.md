@@ -27,10 +27,10 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Sobald bekannt ist, dass ein Termin nicht einzuhalten ist, muss min. 30 Minuten vor Spielbeginn Meldung vom Teamleiter an die Ansprechpartner gegeben werden.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
   * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn. 
-  * Pausen innerhalb eines Spiels dürfen nur mit nachvollziehbaren Grund gestartet werden.
 
 * Verhalten während des Spiels und auf dem TS³
 
+  *  Pausen innerhalb eines Spiels dürfen nur mit nachvollziehbaren Grund gestartet werden.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
   * Jedes Team hat sich während eines laufenden Spiels in ihrem zugehörigen Channel aufzuhalten.
   * Es ist ausdrücklich untersagt während des Spiels Gegner aus dem anderem Team via Anstupsen oder Spam im privat Chat abzulenken.
