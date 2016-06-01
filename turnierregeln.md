@@ -27,10 +27,10 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Sobald bekannt ist, dass ein Termin nicht einzuhalten ist, muss min. 30 Minuten vor Spielbeginn Meldung vom Teamleiter an die Ansprechpartner gegeben werden.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
   * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn. 
+  * Pausen innerhalb eines Spiels dürfen nur mit nachvollziehbaren Grund gestartet werden.
 
 * Verhalten während des Spiels und auf dem TS³
 
-  * Pausen dürfen nur mit nachvollziehbaren Grund gestartet werden.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
   * Jedes Team hat sich während eines laufenden Spiels in ihrem zugehörigen Channel aufzuhalten.
   * Es ist ausdrücklich untersagt während des Spiels Gegner aus dem anderem Team via Anstupsen oder Spam im privat Chat abzulenken.
@@ -46,6 +46,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Auch die Angabe einer falschen Elo, sowie das absichtliche Nutzen von Lowaccounts (Smurfen) kann durch eine Disqualifikation geahndet werden.
   * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten.
   * Das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
+  * Das Ausnutzen der Pausenfunktion kann einen Bann gegen das Team oder gegen einen Spieler nachsichziehen.
 
 
 Last Edit: 01.06.16   -   Version 1.2
