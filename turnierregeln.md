@@ -19,7 +19,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   
 * Spieler
   * Die Ersatzspieler zählen zum offiziellen Lineup und dürfen beliebig rotieren.
-  * Das anmelden und benutzten eines League of Legends Kontos, welches sich auf einem niedrigerem Rang/Level befindet, als der Hauptaccount des Spielers siehe “Disqualifikation”.
+  * Das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
   * Sollte ein Spieler nach der Anmeldung und vor Beginn des Turniers eine Liga oder einen Rang aufsteigen, muss das sofort den Organisatoren berichtet werden.
 
 * Ablauf / Termine
@@ -48,7 +48,5 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten
 
 
-
 Last Edit: 01.06.16 
-
 1.2
