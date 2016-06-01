@@ -46,5 +46,6 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Das Ausnutzen der Pausenfunktion kann einen Bann gegen das Team oder gegen einen Spieler nach sich ziehen.
   * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten und bei technischen Problem.
 
+Bei Fragen zum Regelwerk, wenden sie sich an Frosch und/oder Jogger. 
 
 Last Edit: 01.06.16   -   Version 1.2
