@@ -18,9 +18,8 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Während des Turniers vertritt er sein Team und trägt die Verantwortung für sein Team.
   
 * Spieler
-  * Die Ersatzspieler zählen zum offiziellen Lineup und dürfen beliebig rotieren.
-  * Das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
-  * Sollte ein Spieler nach der Anmeldung und vor Beginn des Turniers eine Liga oder einen Rang aufsteigen, muss das sofort den Organisatoren berichtet werden.
+  * Die Ersatzspieler zählen zum offiziellen Lineup und dürfen beliebig rotieren und eigesetzt werden.
+  * Sollte ein Spieler nach der Anmeldung und vor Beginn des Turniers eine Liga aufsteigen, muss das sofort den Organisatoren berichtet werden.
 
 * Ablauf / Termine
 
@@ -45,8 +44,8 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Bei nicht erscheinen (ohne Rückmeldung) wird das Spiel gegen das fehlende Team als Aufgabe gewertet.
   * Bei massiven Flamen im Allchat während des Spiels, kann es eine Disqualifikation durch die Turnierleitung nach sich ziehen.
   * Auch die Angabe einer falschen Elo, sowie das absichtliche Nutzen von Lowaccounts (Smurfen) kann durch eine Disqualifikation geahndet werden.
-  * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten
+  * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten.
+  * Das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
 
 
-Last Edit: 01.06.16 
-1.2
+Last Edit: 01.06.16   -   Version 1.2
