@@ -41,10 +41,8 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
 
 * Regelungen zur Disqualifikation
 
-  * Bei nicht erscheinen (ohne Rückmeldung) wird das Spiel gegen das fehlende Team als Aufgabe gewertet.
   * Bei massiven Flamen im Allchat während des Spiels, kann es eine Disqualifikation durch die Turnierleitung nach sich ziehen.
-  * Auch die Angabe einer falschen Elo, sowie das absichtliche Nutzen von Lowaccounts (Smurfen) kann durch eine Disqualifikation geahndet werden.
-  * Das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
+  * Auch die Angabe einer falschen Elo oder das Benutzten eines Smurfs ist verboten und führt zur Disquallifikation.
   * Das Ausnutzen der Pausenfunktion kann einen Bann gegen das Team oder gegen einen Spieler nach sich ziehen.
   * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten und bei technischen Problem.
 
