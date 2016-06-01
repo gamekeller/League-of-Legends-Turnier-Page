@@ -18,7 +18,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Während des Turniers vertritt er sein Team und trägt die Verantwortung für sein Team.
   
 * Spieler
-  * Die Ersatzspieler zählen zum offiziellen Lineup und dürfen beliebig rotieren und eigesetzt werden.
+  * Die Ersatzspieler zählen zum offiziellen Lineup, dürfen beliebig rotieren und eigesetzt werden.
   * Sollte ein Spieler nach der Anmeldung und vor Beginn des Turniers eine Liga aufsteigen, muss das sofort den Organisatoren berichtet werden.
 
 * Ablauf / Termine
