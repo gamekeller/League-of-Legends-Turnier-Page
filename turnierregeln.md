@@ -8,14 +8,13 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Ein komplettes Team besteht aus min. 5 Spielern und optional noch 2 Ersatzspielern.
   * Im auszufüllenden Formular zur Anmeldung muss die genaue Elo jedes Spielers angegeben sein. (Nicht nur “Platin”, sondern “Platin 3”).
   * Einer der 5 Spieler muss der Teamleiter sein, welcher das Team vertritt und sich auch um das Einreichen der Ergebnisse kümmern muss. (mehr siehe Teamleiter)
-  * Jeder Spieler muss min. Level 5 erreicht haben.
 
 * Teamleiter
 
-   Jedes Team muss einen Teamleiter wählen, Elo oder Level sind hierbei unwichtig. Der Teamleiter ist ein Spieler wie jeder andere, hat jedoch noch einige Pflichten zu erfüllen:
+   Jedes Team muss einen Teamleiter wählen.
 
   * Er ist die Kontaktperson seines Teams mit den Veranstaltern und verantwortlich für die Weitergabe von Informationen.
-  * Er ist verantwortlich für die Weitergabe der Spielergebnisse via Screenshots, welche an die Ansprechpartner gesendet werden müssen.
+  * Er ist verantwortlich für die Weitergabe der Spielergebnisse via Formular.
   * Er muss seine E-Mail-Adresse, sowie den Gamekeller-TS³- Namen angegeben.
   * Während des Turniers ist der Teamleiter der Entscheidungsträger.
   * Der Teamleiter gilt als streitschlichtendes Mitglied,d.h. flamen und/oder Beleidigungen hat er zu unterbinden.
