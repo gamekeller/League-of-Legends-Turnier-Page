@@ -24,7 +24,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
 * Ablauf / Termine
 
   * Termine für die Spiele sind einzuhalten.
-  * Wenn ein Team 30 Minuten vor Spielbeginn nicht vollständig und spielbereit ist zählt es als Aufgabe.
+  * Wenn ein Team 30 Minuten nach Spielbeginn nicht vollständig und spielbereit ist zählt es als Aufgabe.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
   * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn. 
 
