@@ -13,7 +13,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
 
    Jedes Team muss einen Teamleiter wählen.
 
-  * Er ist die Kontaktperson seines Teams mit den Veranstaltern und verantwortlich für die Weitergabe von Informationen.
+  * Er ist die Kontaktperson seines Teams. 
   * Er ist verantwortlich für die Weitergabe der Spielergebnisse via Formular.
   * Während des Turniers vertritt er sein Team und trägt die Verantwortung für sein Team.
   
