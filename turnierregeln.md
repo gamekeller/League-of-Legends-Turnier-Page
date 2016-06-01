@@ -26,7 +26,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Termine für die Spiele sind einzuhalten.
   * Sobald bekannt ist, dass ein Termin nicht einzuhalten ist, muss min. 30 Minuten vor Spielbeginn Meldung vom Teamleiter an die Ansprechpartner gegeben werden.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
-  * Min. 1h vor Turnierbeginn Meldung der Anwesenheit an die Turnierleitung.
+  * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn. 
 
 * Verhalten während des Spiels und auf dem TS³
 
