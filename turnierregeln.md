@@ -15,10 +15,8 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
 
   * Er ist die Kontaktperson seines Teams mit den Veranstaltern und verantwortlich für die Weitergabe von Informationen.
   * Er ist verantwortlich für die Weitergabe der Spielergebnisse via Formular.
-  * Er muss seine E-Mail-Adresse, sowie den Gamekeller-TS³- Namen angegeben.
-  * Während des Turniers ist der Teamleiter der Entscheidungsträger.
-  * Der Teamleiter gilt als streitschlichtendes Mitglied,d.h. flamen und/oder Beleidigungen hat er zu unterbinden.
-
+  * Während des Turniers vertritt er sein Team. 
+  
 * Spieler
   * Die Ersatzspieler dürfen nicht spielen, sollten alle der  eingetragenen Spieler Zeit haben.
   * Du musst ein gültiges League of Legends Konto haben, welches sich auf einsatzbereit auf dem richtigem Server befindet.
