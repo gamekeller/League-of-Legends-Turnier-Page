@@ -15,11 +15,10 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
 
   * Er ist die Kontaktperson seines Teams mit den Veranstaltern und verantwortlich für die Weitergabe von Informationen.
   * Er ist verantwortlich für die Weitergabe der Spielergebnisse via Formular.
-  * Während des Turniers vertritt er sein Team. 
+  * Während des Turniers vertritt er sein Team und trägt die Verantwortung für sein Team.
   
 * Spieler
-  * Die Ersatzspieler dürfen nicht spielen, sollten alle der  eingetragenen Spieler Zeit haben.
-  * Du musst ein gültiges League of Legends Konto haben, welches sich auf einsatzbereit auf dem richtigem Server befindet.
+  * Die Ersatzspieler zählen zum offiziellen Lineup und dürfen beliebig rotieren.
   * Das anmelden und benutzten eines League of Legends Kontos, welches sich auf einem niedrigerem Rang/Level befindet, als der Hauptaccount des Spielers siehe “Disqualifikation”.
   * Sollte ein Spieler nach der Anmeldung und vor Beginn des Turniers eine Liga oder einen Rang aufsteigen, muss das sofort den Organisatoren berichtet werden.
 
@@ -47,3 +46,9 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Bei massiven Flamen im Allchat während des Spiels, kann es eine Disqualifikation durch die Turnierleitung nach sich ziehen.
   * Auch die Angabe einer falschen Elo, sowie das absichtliche Nutzen von Lowaccounts (Smurfen) kann durch eine Disqualifikation geahndet werden.
   * Zu höherer Gewalt zählen: Internetabsturz, Anweisungen von Erziehungsberechtigten
+
+
+
+Last Edit: 01.06.16 
+
+1.2
