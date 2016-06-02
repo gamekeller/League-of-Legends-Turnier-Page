@@ -26,7 +26,9 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Termine für die Spiele sind einzuhalten.
   * Wenn ein Team 30 Minuten nach Spielbeginn nicht vollständig und spielbereit ist zählt es als Aufgabe.
   * Akzeptable Gründe: Höhere Gewalt (siehe Disqualifikation)
-  * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn. 
+  * Der Checkin ist min. 1 Stunde vor dem Turnierbeginn.
+  * Der Turnierorganisator muss verkünden, welches Team als erstes die Kartenseite und die Banns
+    auswählen darf. Besteht ein Match aus mehreren Spielen, wechseln sich die Teams vor jedem neuen Spiel mit der Wahl ab.
 
 * Verhalten während des Spiels und auf dem TS³
 
