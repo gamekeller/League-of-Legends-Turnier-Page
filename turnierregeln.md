@@ -39,7 +39,7 @@ subtitle: Die Regeln für jedes Turnier findest du hier!
   * Flamen im Allchat während des Spiels ist untersagt (extreme Fälle: siehe Disqualifikation).
   * Nach Beginn des Spiels wird ein Passwort auf den Channel gelegt, nachjoinen nach Beginn des Spiels ist unerwünscht.
   * TS³-User, die in einem Channel sind, welcher von einem Team mit aktiven Spiel benutzt wird, haben sich zu stummen.
-
+  * Tornten, lachen oder andere im Spiel integrierten Fähigkeiten (Stg+1 usw.) sind nciht verboten.
 
 * Regelungen zur Disqualifikation
 
